@@ -1,0 +1,8 @@
+*{box-sizing: border-box;}
+
+div{
+    width: 0;
+    height: 0;
+    border: 100px solid transparent;
+    border-bottom: 100px solid black;
+}
